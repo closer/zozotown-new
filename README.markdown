@@ -3,5 +3,4 @@ ZOZO TOWN NEW
 
 # What's
 
-ã¾ã¾ã¿ã¦ã³ã®ãããããã®ãRSSã«ãã
-
+zozo townのあたらしいのをRSSにする
