@@ -3,7 +3,7 @@ require "feedalizer"
 require "time"
 require "kconv"
 
-get "/" do
+get "/news" do
   begin
     url = "http://zozo.jp/news/"
     rss = feedalize(url + "list_order.html") do
