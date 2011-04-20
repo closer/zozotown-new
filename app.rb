@@ -2,6 +2,11 @@ require "sinatra"
 require "feedalizer"
 require "time"
 require "kconv"
+require "haml"
+
+get '/' do
+  haml :index
+end
 
 get "/news" do
   begin
